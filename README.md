@@ -1,5 +1,4 @@
 # basic-scratch-game
-basic scratch game that i made for week 0 of the harvard cs50 course. objective is to dodge the incoming traffic and accumulate score.
 
 controls:
 up arrow - move up
